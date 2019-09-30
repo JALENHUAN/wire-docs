@@ -1,4 +1,6 @@
-Installing centralized logging dashboards using Kibana:
+.. _logging:
+
+Installing centralized logging dashboards using Kibana
 ========================================================
 
 Introduction

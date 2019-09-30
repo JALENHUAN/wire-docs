@@ -1,3 +1,5 @@
+.. _monitoring:
+
 Monitoring wire-server using Prometheus and Grafana
 =======================================================
 
