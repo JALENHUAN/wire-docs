@@ -10,4 +10,5 @@ Installing wire-server
     (demo) How to install wire-server using Helm <helm.rst>
     (production) How to install kubernetes <kubernetes-prod.rst>
     (production) How to install wire-server using Helm <helm-prod.rst>
+    (production) How to install monitoring using Helm <monitoring.rst>
     Troubleshooting during installation <troubleshooting.rst>
