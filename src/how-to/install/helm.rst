@@ -88,6 +88,8 @@ Next, install an smtp server:
 How to install wire-server itself
 ---------------------------------------
 
+*Note: the following makes use of overrides for helm charts. You may wish to read :ref:`understand-helm-overrides` first.*
+
 Download example demo values and secrets:
 
 .. code:: shell
