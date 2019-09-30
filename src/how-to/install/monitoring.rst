@@ -1,5 +1,5 @@
 Monitoring wire-server using Prometheus and Grafana
-=============================================================================
+=======================================================
 
 Introduction
 ------------
@@ -12,7 +12,10 @@ to cluster and wire-services health.
 Prerequisites
 -------------
 
-You need to have wire-server installed, see :ref:`helm` or :ref:`helm-prod`.
+You need to have wire-server installed, see either of
+
+* :ref:`helm`
+* :ref:`helm-prod`.
 
 How to install Prometheus and Grafana on Kubernetes using Helm
 ---------------------------------------------------------------
